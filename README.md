@@ -1,0 +1,2 @@
+# Symbolspel
+A symbol game
